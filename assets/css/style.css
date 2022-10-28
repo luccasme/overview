@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  
+}
+
+.caixa {
+    background: linear-gradient(to top, #0a061a, #a691fb);
+    border-radius: 10px; 
+    width: 100%;
+    height: 340px;      
+    
+}
+
+.habilidades {
+    margin: 0;
+    padding: 2rem 10rem 2rem 10rem;
+    font-size: 20px;
+    text-align: justify;
+    grid-auto-flow: column;
+    
+    
+    
+}
+
+.image {   
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 10px;
+    
+}
+
+.presents {
+    background: linear-gradient(360deg , #130d2f, #3a3161);
+    color: #E8E8E4;
+    padding: .5rem;
+    margin: 1rem;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 1px black;    
+}
+
+.infobox {
+    text-align: left;
+    border-radius: 10px;
+    margin: 0;
+    padding: 2rem 20rem 2rem 20rem;
+    background-color: #FEC89A;
+    
+    
+}
+
